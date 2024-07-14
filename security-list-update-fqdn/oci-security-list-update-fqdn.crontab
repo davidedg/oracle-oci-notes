@@ -1,0 +1,1 @@
+*/10 * * * * bash -l ~/oci-security-list-update-fqdn.bash >> ~/oci-security-list-update-fqdn.log
